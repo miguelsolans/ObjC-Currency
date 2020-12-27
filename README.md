@@ -11,9 +11,9 @@ Because of this, I decided to make some of these projects available on GitHub. S
 
 ***DISCLAIMER***: I am a beginner with these technologies, perhaps like some of you, so there might be some mistakes here and there. Use this project only as a reference, if you want to learn my approach to fetch external API's.
 
-## How to Run
+## External Frameworks
 
-This project requires AFNetworking, therefore it is important to install all required CocoaPods. To do such, type the following command on terminal
+This project depends on AFNetworking framework. This an be installed as a [CocoaPod](http://cocoapods.org) package. To do such, type the following command on terminal
 
 ```
 $ pod install
