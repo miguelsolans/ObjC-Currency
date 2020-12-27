@@ -1,6 +1,16 @@
 # ObjC-Currency
 A Currency calculator built on Apple's Objective-C and UIKit Framework.
 
+## Background History
+
+Over the last two months I have been focussing on **iOS Development** with the old but well matured technologies, **ObjectiveC** and **UIKit**. 
+
+Starting and finding good, and most importantly updated, online resources that could help me out to solve exercises was harder than actually creating the set of Apps, due to the fact after #Swift and #SwiftUI came out, developers seem to focus on this two other than **ObjectiveC** and **UIkit**.
+
+Because of this, I decided to make some of these projects available on GitHub. Simple ones, but hope they can help newbies getting to know this technology 🤓 This time, a simple Currency app which consumes a RESTful API through a CocoaPod framework called **AFNetworking**!
+
+***DISCLAIMER***: I am a beginner with these technologies, perhaps like some of you, so there might be some mistakes here and there. Use this project only as a reference, if you want to learn my approach to fetch external API's.
+
 ## How to Run
 
 This project requires AFNetworking, therefore it is important to install all required CocoaPods. To do such, type the following command on terminal
